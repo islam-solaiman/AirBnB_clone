@@ -25,7 +25,7 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)<br>
 [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)<br>
 [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)<br>
-CSS SpeciFishity
+CSS SpeciFishity<br>
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)<br>
 [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)<br>
 [MDN](https://developer.mozilla.org/en-US/)<br>
@@ -67,3 +67,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 	- Current screenshots have been done on Chrome 56 or more.
 	- No cross browsers
 	- You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
+
+![hbnb_step1](https://github.com/islam-solaiman/AirBnB_clone/assets/64030452/d87b4d78-a4bf-42fd-8e85-b65f81fd835d)
